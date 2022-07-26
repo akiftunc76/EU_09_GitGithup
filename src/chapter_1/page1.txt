@@ -24,6 +24,8 @@ Green actively changed and ready to be part of a repository
 
 After I push commit, I have my changes in my local repository.
 
+I made some changes here.
+
 
 
 

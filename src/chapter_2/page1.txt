@@ -1,4 +1,7 @@
 
 Bismillahirrahmanirrahim.
+<<<<<<< HEAD
 Yeni sayfa.
+=======
+>>>>>>> origin/master
 
